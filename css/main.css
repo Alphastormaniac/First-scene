@@ -27,7 +27,10 @@ align-items: center;
 .instaLink {
     color: lightcoral;
     text-decoration: none;
+}
 
+.gitHub {
+    text-decoration: none;
 }
 
 body {
