@@ -1,5 +1,6 @@
 .site-header {
-background-color: aqua;
+    background-image:-webkit-linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic.jpg);
+    background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic.jpg);
 color: #264242;
 height: 100vh;
 font-family: monospace;
