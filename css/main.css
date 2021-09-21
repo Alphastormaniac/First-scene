@@ -1,7 +1,7 @@
 .site-header {
-    background-image:-webkit-linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic.jpg);
-    background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic.jpg);
-color: #264242;
+background-image:-webkit-linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic.jpg);
+background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic.jpg);
+color: goldenrod;
 height: 100vh;
 font-family: monospace;
 display: flex;
