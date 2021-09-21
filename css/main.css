@@ -24,8 +24,10 @@ align-items: center;
     box-shadow: black 2px 5px 5px;
 }
 
-.course-link {
-    color: #264242;
+.instaLink {
+    color: lightcoral;
+    text-decoration: none;
+
 }
 
 body {
