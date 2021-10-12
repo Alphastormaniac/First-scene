@@ -1,7 +1,7 @@
 .site-header {
-background-image:-webkit-linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic.jpg);
-background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic.jpg);
-color: goldenrod;
+background-image:-webkit-linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic2.png);
+background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(bgPic2.png);
+color: rgb(218, 32, 32);
 height: 100vh;
 font-family: monospace;
 display: flex;
@@ -21,7 +21,7 @@ align-items: center;
     height: 200px;
     width: 200px;
     align-self: center;
-    box-shadow: rgb(253, 5, 5) 2px 5px 5px;
+    box-shadow: rgb(8, 8, 8) 2px 5px 5px;
 }
 
 .instaLink {
