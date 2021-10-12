@@ -21,7 +21,7 @@ align-items: center;
     height: 200px;
     width: 200px;
     align-self: center;
-    box-shadow: black 2px 5px 5px;
+    box-shadow: rgb(253, 5, 5) 2px 5px 5px;
 }
 
 .instaLink {
